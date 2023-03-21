@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/usnistgov/ARIAC/ariac2022/wiki/figures/2022/ariac2022workcell.jpg)]
+[![MasterHead]([https://raw.githubusercontent.com/usnistgov/ARIAC/ariac2022/wiki/figures/2022/ariac2022workcell.jpg](https://github.com/Rishikesh-Jadhav/ARIAC_2023/blob/main/Ariac_workfloor.png))]
 <h1 align="center">Hi 👋, I'm Rishikesh Jadhav</h1>
 <h3 align="center">I am a first year robotics graduate student at the University of Maryland, College Park. My interests lie in Robot Kinematics & Dynamics, Perception, Planning/Controls and Simulation</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
