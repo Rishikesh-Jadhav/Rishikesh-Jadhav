@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Perception for Autonomous Robots, Planning, ROS2, Deep learning **
 
-- 💬 Ask me about **ROS, Manipulator Simulation, Mobile Robotics.**
+- 💬 Ask me about **ROS2, Manipulator Simulation, Mobile Robotics.**
 
 - 📫 How to reach me **rishikeshjadhav712@gmail.com**
 
