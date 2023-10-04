@@ -10,6 +10,7 @@
 - 💬 Ask me about **ROS2, Manipulator Simulation, Mobile Robotics.**
 
 - 📫 How to reach me **rjadhav1@umd.edu**
+  
 - Alternate email **rishikeshjadhav712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
