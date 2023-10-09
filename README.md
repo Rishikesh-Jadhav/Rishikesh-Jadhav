@@ -3,7 +3,7 @@
 <h3 align="center">I am a Second year robotics graduate student at the University of Maryland, College Park. My interests lie in Perception, Deep Learning, ML, 3D Vison, Robot Kinematics and Industrial 
  Automation software simulation</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Development of a simulation based control system that will address challenges presented in the Agile Robotics for Industrial Automation Competition 2023 (ARIAC) and an independent project on application of Deep Learning to an Autonomous Car**
+- 🔭 I’m currently working on **Development of a simulation based control system that will address challenges presented in the Agile Robotics for Industrial Automation Competition 2023 (ARIAC) and a project using CARLA on application of Deep Learning to an Autonomous Cars**
 
 - 🌱 I’m currently learning **Advanced Techniques in Visual Learning & Recognition, 3D vision and applications of visual transformers **
 
