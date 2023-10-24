@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Rishikesh-Jadhav/ARIAC_2023/blob/main/Ariac_workfloor.png)]
+[![MasterHead](https://github.com/Rishikesh-Jadhav/Rishikesh-Jadhav/blob/main/IMG_0830.HEIC)]
 <h1 align="center">Hello 👋, I am Rishikesh Jadhav</h1>
 <h3 align="center">I am a Second year robotics graduate student at the University of Maryland, College Park. My interests lie in Perception, Deep Learning, ML, 3D Vison, Robot Kinematics and Industrial 
  Automation software simulation</h3>
