@@ -1,9 +1,12 @@
 [![MasterHead](https://github.com/Rishikesh-Jadhav/Rishikesh-Jadhav/blob/main/G6_ARIAC.jpeg)]
 <h1 align="center">Hello 👋, I am Rishikesh Jadhav</h1>
-<h3 align="center">I am a Second year robotics graduate student at the University of Maryland, College Park. My interests lie in Perception, Deep Learning, ML, 3D Vison, Robot Kinematics and Industrial 
- Automation software simulation</h3>
+<h3 align="center">Second-year Robotics Graduate Student at the University of Maryland, College Park</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **A Study on Inductive Biases and Vision-based Models in Motion Prediction for Autonomous Driving and Enhancing Autonomous Vehicle Control: Adaptive Neural Network-Based Control in CARLA Simulator**
+
+- 🔭 **Currently Working On:**
+  1. Applying motion prediction using 3D bounding boxes with a method called PowerBEV on datasets like Audi's A2D2, Argoverse, and NuScenes. Analyzing results to assess generalization performance on diverse datasets.
+  2. 3D object detection using a model to create a 3D voxel representation of a room, followed by another model for 3D object detection using voxel representations as inputs.
+  3. Enhancing Autonomous Vehicle Control: Adaptive Neural Network-Based Control in Microsoft's Airsim Simulator.
 
 - 🌱 I’m currently learning **Advanced Techniques in Visual Learning & Recognition, 3D vision and applications of visual transformers **
 
