@@ -5,7 +5,7 @@
 
 - 🔭 **Currently Working On:**
   1. Applying motion prediction using 3D bounding boxes with a method called PowerBEV on datasets like Audi's A2D2, Argoverse, and NuScenes. Analyzing results to assess generalization performance on diverse datasets.
-  2. 3D object detection using a model to create a 3D voxel representation of a room, followed by another model for 3D object detection using voxel representations as inputs.
+  2. 3D object detection using a model to create a 3D point cloud representation of a room/scene, followed by another model(PointNet based) for 3D object detection using point clouds as inputs.
   3. Enhancing Autonomous Vehicle Control: Adaptive Neural Network-Based Control in Microsoft's Airsim Simulator.
 
 - 🌱 I’m currently learning **Advanced Techniques in Visual Learning & Recognition, 3D vision and applications of visual transformers **
