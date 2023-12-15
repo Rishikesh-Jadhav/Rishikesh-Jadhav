@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 **Currently Working On:**
-  1. Applying motion prediction using 3D bounding boxes with a method called PowerBEV on datasets like Audi's A2D2, Argoverse, and NuScenes. Analyzing results to assess generalization performance on diverse datasets.
-  2. 3D object detection using a model to create a 3D point cloud representation of a room/scene, followed by another model(PointNet based) for 3D object detection using point clouds as inputs.
+  1. Applying motion prediction in Birds eye view with a method called PowerBEV on datasets Toyotta's Woven, Nuscenes and Argoverse datasets. Analyzing results to assess generalization performance on diverse datasets and modifying the architecture's encoder for better feature extraction.
+  2. 3D object segmentation using a model to create a 3D point cloud representation of a room/scene, followed by another model(PointNet based) for 3D object segmentaion using point clouds as inputs.
   3. Enhancing Autonomous Vehicle Control: Adaptive Neural Network-Based Control in Microsoft's Airsim Simulator.
 
 - 🌱 I’m currently learning **Advanced Techniques in Visual Learning & Recognition, 3D vision and applications of visual transformers **
