@@ -1,12 +1,10 @@
 [![MasterHead](https://github.com/Rishikesh-Jadhav/Rishikesh-Jadhav/blob/main/G6_ARIAC.jpeg)]
 <h1 align="center">Hello 👋, I am Rishikesh Jadhav</h1>
-<h3 align="center">Second-year Robotics Graduate Student at the University of Maryland, College Park</h3>
+<h3 align="center">Robotics Graduate Student at the University of Maryland, College Park</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 **Currently Working On:**
-  1. Applying motion prediction in Birds eye view with a method called PowerBEV on datasets Toyota's Woven, Nuscenes and Argoverse datasets. Analyzing results to assess generalization performance on diverse datasets and modifying the architecture's encoder for better feature extraction.
-  2. 3D object segmentation using a model to create a 3D point cloud representation of a room/scene, followed by another model(PointNet based) for 3D object segmentaion using point clouds as inputs.
-  3. Enhancing Autonomous Vehicle Control: Adaptive Neural Network-Based Control in Microsoft's Airsim Simulator.
+  Preparing for Google Clouds Professional Machine Learning Engineer Certification by building ML projects on Google cloud.
 
 - 🌱 I’m currently learning **Advanced Techniques in Visual Learning & Recognition, 3D vision and applications of visual transformers **
 
