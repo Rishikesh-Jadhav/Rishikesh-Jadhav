@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Rishikesh-Jadhav/Rishikesh-Jadhav/blob/main/G6_ARIAC.jpeg)
 <h1 align="center">Hello 👋, I am Rishikesh Jadhav</h1>
-<h3 align="center">Graduate of the University of Maryland, College Park</h3>
+<h3 align="center">Simulation Engineer at Duality AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 **Currently Working On:**
@@ -10,9 +10,8 @@
 
 - 💬 Ask me about ** Computer vision, Visual Learning/Recognition and Robotics**
 
-- 📫 How to reach me **rjadhav1@umd.edu**
+- 📫 How to reach me **rishikeshjadhav712@gmail.com**
   
-- Alternate email **rishikeshjadhav712@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
