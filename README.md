@@ -17,7 +17,6 @@
 
 <div align="center">
 
-[![Role](https://img.shields.io/badge/Role-AI%20Simulation%20Engineer-1abc9c)](#)
 [![Location](https://img.shields.io/badge/Location-Dallas%2C%20TX-0e76a8)](#)
 [![Website](https://img.shields.io/badge/Website-rishikesh--jadhav.github.io-2ea44f)](https://rishikesh-jadhav.github.io/)
 [![Email](https://img.shields.io/badge/Email-rishikeshjadhav712%40gmail.com-D14836)](mailto:rishikeshjadhav712@gmail.com)
@@ -100,7 +99,7 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">ARIAC 2023: Agile Robotics</h3>
+      <h3 align="center">ARIAC 2023: Agile Robotics Competition</h3>
       <p align="center">
         <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" width="100%" alt="ARIAC Project"/>
@@ -130,7 +129,7 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">LLM & RAG Chat Application</h3>
+      <h3 align="center">LLM & RAG Chatbot Application</h3>
       <p align="center">
         <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" width="100%" alt="LLM RAG Project"/>
@@ -160,7 +159,7 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Reinforcement Learning Navigation</h3>
+      <h3 align="center">Reinforcement Learning based Autonomous Navigation</h3>
       <p align="center">
         <a href="https://github.com/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG" width="100%" alt="RL Navigation Project"/>
@@ -215,17 +214,3 @@ graph TD
   E --> E2[GCP/AWS]
   E --> E3[CI/CD]
 ```
-
-## Let's Connect
-
-<div align="center">
-  <a href="mailto:rishikeshjadhav712@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishikeshjadhav712%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://rishikesh-jadhav.github.io/">
-    <img src="https://img.shields.io/badge/Website-rishikesh--jadhav.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rishikesh-avinash-jadhav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishikesh%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
