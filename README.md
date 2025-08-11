@@ -180,7 +180,7 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
 - **Simulation-first mindset** - design, validate, and iterate in high-fidelity environments before hitting real hardware, saving time and cost  
 - **Research-to-production flow** - every project ships with reproducible environments, fixed seeds, and exact dataset/weights versions  
 - **Engineering discipline** - CI/CD pipelines with linting, type checks, unit/integration tests, and automated benchmarks  
-- **Storytelling through results** - architecture diagrams, quantitative comparisons, and demo videos to make work easy to understand and trust  
+- **Storytelling through results** - architecture diagrams, quantitative comparisons, and demo videos to make work easy to understand 
 - **Scalable experimentation** - containerized ML workflows on cloud (GCP) with distributed training and evaluation  
 - **Clean handoffs** - well-documented code, versioned changelogs, and minimal setup friction so others can run it end-to-end  
 - **Toolsmithing** - build or adapt tools (simulation assets, dataset converters, visualization utilities) to speed up team velocity  
