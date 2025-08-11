@@ -85,7 +85,7 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ARIAC 2023: Agile Robotics Competition</h3>
+      <h3 align="center">ARIAC 2023: Robotics Competition</h3>
       <p align="center">
         <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" width="100%" alt="ARIAC Project"/>
