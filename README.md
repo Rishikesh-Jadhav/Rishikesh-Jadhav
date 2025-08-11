@@ -2,9 +2,13 @@
 
 <h1 align="center">Rishikesh Jadhav</h1>
 
+<p align="center">
+  👋 Hi, I'm Rishikesh - an AI & Robotics Engineer building scalable intelligence systems for vision, language, and decision-making. 
+</p>
+
 <!-- Animated typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&height=30&lines=Bridging%20the%20gap%20between%20Simulation%20%26%20Reality;AI%2C%20Robotics%20%26%20Automation%20%7C%20Research-to-Production;Synthetic%20Data%20Generation%20%7C%20Sim-to-Real%20Transfer%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&height=30&lines=Bridging%20the%20gap%20between%20Simulation%20%26%20Reality;AI%2C%20Robotics%20%26%20Automation%20%7C%20Research-to-Production;Synthetic%20Data%20Generation%20%7C%20Sim-to-Real%20Transfer%20;3D%20Vision%20%26%20Perception%20Systems%20%7C%20LLM%2FVLM%20for%20Robotics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,68 +35,6 @@
 ## Currently
 - Expanding expertise in Large Language Models (LLMs) and Vision-Language Models (VLMs) for robotics — enabling natural language-driven perception, planning, and simulation workflows  
 - Preparing for Google Cloud's Professional ML Engineer certification by building ML projects on GCP
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Birds-Eye-View Trajectory Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" width="100%" alt="BEV Project"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
-          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
-        </p>
-        <p align="center"><strong> IoU: 0.920 | VPQ: +15% | ViT Integration</strong></p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">ARIAC 2023: Agile Robotics</h3>
-      <p align="center">
-        <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" width="100%" alt="ARIAC Project"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023?style=flat-square&labelColor=343b41"/></a>
-          <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023?style=flat-square&labelColor=343b41"/></a>
-        </p>
-        <p align="center"><strong> Team Lead | 8% Faster | 40% Cost Reduction</strong></p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">3D Indoor Mapping & Segmentation</h3>
-      <p align="center">
-        <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=3D-Indoor-Mapping-and-Object-Segmentation" width="100%" alt="3D Mapping Project"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/></a>
-          <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/></a>
-        </p>
-        <p align="center"><strong> 93% Accuracy | 7% Faster | 12% Quality Boost</strong></p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Point Cloud Segmentation</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=3D-Indoor-Mapping-and-Object-Segmentation" width="100%" alt="Point Cloud Project"/>
-        </a>
-        <p align="center">
-          <img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/>
-          <img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/>
-        </p>
-        <p align="center"><strong> 97.79% Classification | 88.84% Segmentation | 50ms Inference</strong></p>
-      </p>
-    </td>
-  </tr>
-</table>
-
 
 ## Skills
 
@@ -138,6 +80,101 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
   <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36"/></a>
   <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36"/></a>
 </p>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Birds-Eye-View Trajectory Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" width="100%" alt="BEV Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 IoU: 0.920 | VPQ: +15% | ViT Integration</strong></p>
+        <p align="center"><em>Motion prediction for Autonomous Vehicles using PowerBEV framework and Multi-Camera setup</em></p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ARIAC 2023: Agile Robotics</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" width="100%" alt="ARIAC Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 Team Lead | 8% Faster | 40% Cost Reduction</strong></p>
+        <p align="center"><em>NIST ARIAC 2023 - Agile Robotics for Industrial Automation Challenge</em></p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">3D Indoor Mapping & Segmentation</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=3D-Indoor-Mapping-and-Object-Segmentation" width="100%" alt="3D Mapping Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 93% Accuracy | 7% Faster | 12% Quality Boost</strong></p>
+        <p align="center"><em>Innovative approach to 3D Indoor Mapping and Object Segmentation for robot navigation</em></p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">LLM & RAG Chat Application</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" width="100%" alt="LLM RAG Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 20% Response Accuracy | 20% Latency Reduction</strong></p>
+        <p align="center"><em>LLM and RAG-based chat application with AlloyDB and Vertex AI integration</em></p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Video Compression & Future Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/Video-Compression-and-Future-Prediction-Using-GPT" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Video-Compression-and-Future-Prediction-Using-GPT" width="100%" alt="Video GPT Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/Video-Compression-and-Future-Prediction-Using-GPT/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Video-Compression-and-Future-Prediction-Using-GPT?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/Video-Compression-and-Future-Prediction-Using-GPT/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Video-Compression-and-Future-Prediction-Using-GPT?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 2.6x Compression Rate | 5,000+ Minutes Processed</strong></p>
+        <p align="center"><em>Advanced video compression and future prediction using GPT and VQ-VAE</em></p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Reinforcement Learning Navigation</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG" width="100%" alt="RL Navigation Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 41 Stars | DQN + TD3 | Autonomous Navigation</strong></p>
+        <p align="center"><em>Autonomous vehicle navigation using RL techniques with DQN and Twin Delayed DDPG</em></p>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## How I Work
 - **Simulation-first mindset** - design, validate, and iterate in high-fidelity environments before hitting real hardware, saving time and cost  
