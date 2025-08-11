@@ -2,6 +2,11 @@
 
 <h1 align="center">Rishikesh Jadhav</h1>
 
+<!-- Animated typing tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&height=30&lines=Bridging%20the%20gap%20between%20Simulation%20%26%20Reality;Vision%2C%20AI%20%26%20Automation%20%7C%20Research-to-Production;Simulation-First%20Mindset%20" alt="Typing SVG" />
+</p>
+
 <p align="center">
   Designing simulation-driven perception systems and delivering reproducible, production-ready research that bridges lab to real-world robotics.
 </p>
@@ -27,13 +32,67 @@
 - Expanding expertise in Large Language Models (LLMs) and Vision-Language Models (VLMs) for robotics — enabling natural language-driven perception, planning, and simulation workflows  
 - Preparing for Google Cloud's Professional ML Engineer certification by building ML projects on GCP
 
-## Featured projects
-- Birds-Eye-View Trajectory Prediction for Autonomous Driving — Multi-camera BEV forecasting using PowerBEV, with reproducible training/eval and results tables  
-  `https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving`
-- ARIAC 2023: Agile Robotics for Industrial Automation — ROS-based competition stack with simulation and task orchestration  
-  `https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023`
-- 3D Indoor Mapping and Object Segmentation — Navigation-oriented mapping and segmentation in complex environments  
-  `https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation`
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Birds-Eye-View Trajectory Prediction</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" width="100%" alt="BEV Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong> IoU: 0.920 | VPQ: +15% | ViT Integration</strong></p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">ARIAC 2023: Agile Robotics</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" width="100%" alt="ARIAC Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong> Team Lead | 8% Faster | 40% Cost Reduction</strong></p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">3D Indoor Mapping & Segmentation</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=3D-Indoor-Mapping-and-Object-Segmentation" width="100%" alt="3D Mapping Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong> 93% Accuracy | 7% Faster | 12% Quality Boost</strong></p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Point Cloud Segmentation</h3>
+      <p align="center">
+        <a href="#" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=3D-Indoor-Mapping-and-Object-Segmentation" width="100%" alt="Point Cloud Project"/>
+        </a>
+        <p align="center">
+          <img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation?style=flat-square&labelColor=343b41"/>
+        </p>
+        <p align="center"><strong> 97.79% Classification | 88.84% Segmentation | 50ms Inference</strong></p>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## Skills
 
@@ -90,14 +149,6 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
 - **Toolsmithing** - build or adapt tools (simulation assets, dataset converters, visualization utilities) to speed up team velocity  
 - **Bias for impact** - prioritize work that reduces friction for downstream teams and pushes projects closer to deployment  
 
-
-## Contact
-- Email: `rishikeshjadhav712@gmail.com`
-- Website: `https://rishikesh-jadhav.github.io/`
-- LinkedIn: `https://www.linkedin.com/in/rishikesh-avinash-jadhav/`
-
-If you’re evaluating my work, start with the Featured projects above. Each is being upgraded with product-grade README, CI, and reproducibility so you can run them end-to-end.
-
 ## Metrics
 
 <p>
@@ -105,15 +156,12 @@ If you’re evaluating my work, start with the Featured projects above. Each is 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh-Jadhav&layout=compact&hide_title=true" alt="Top languages" height="150"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh-Jadhav" alt="GitHub streak" height="150"/>
-</p>
 
 ## Tech stack visualization
 
 ```mermaid
 graph TD
-  A[Simulation-First AI and Robotics] --> B[Computer Vision / 3D]
+  A[AI and Robotics] --> B[Computer Vision / 3D]
   A --> C[AI/ML]
   A --> D[Robotics & Sim]
   A --> E[DevOps & Cloud]
@@ -121,7 +169,7 @@ graph TD
   B --> B2[PyTorch]
   B --> B3[Geometry/SLAM]
   C --> C1[HuggingFace]
-  C --> C2[TensorFlow/Keras]
+  C --> C2[Pytorch/TensorFlow]
   C --> C3[Evaluation/Tracking]
   D --> D1[ROS/ROS2]
   D --> D2[Gazebo/Isaac/Unreal]
@@ -131,13 +179,16 @@ graph TD
   E --> E3[CI/CD]
 ```
 
-## As seen in / collaborated with
+## Let's Connect
 
-<p>
-  <img src="https://img.shields.io/badge/Duality%20AI-Collaboration-111827" />
-  <img src="https://img.shields.io/badge/ARIAC-Competition-0f766e" />
-  <img src="https://img.shields.io/badge/University%20of%20Maryland-Research-991b1b" />
-  <img src="https://img.shields.io/badge/Void%20Robotics-Engineering-1d4ed8" />
-</p>
-
----
+<div align="center">
+  <a href="mailto:rishikeshjadhav712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rishikeshjadhav712%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://rishikesh-jadhav.github.io/">
+    <img src="https://img.shields.io/badge/Website-rishikesh--jadhav.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishikesh-avinash-jadhav/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishikesh%20Jadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
