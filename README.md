@@ -85,20 +85,6 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Birds-Eye-View Trajectory Prediction</h3>
-      <p align="center">
-        <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" width="100%" alt="BEV Project"/>
-        </a>
-        <p align="center">
-          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
-          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
-        </p>
-        <p align="center"><strong>🏆 IoU: 0.920 | VPQ: +15% | ViT Integration</strong></p>
-        <p align="center"><em>Motion prediction for Autonomous Vehicles using PowerBEV framework and Multi-Camera setup</em></p>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">ARIAC 2023: Agile Robotics Competition</h3>
       <p align="center">
         <a href="https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023" target="_blank">
@@ -112,6 +98,21 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
         <p align="center"><em>NIST ARIAC 2023 - Agile Robotics for Industrial Automation Challenge</em></p>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">LLM & RAG Chatbot Application</h3>
+      <p align="center">
+        <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" width="100%" alt="LLM RAG Project"/>
+        </a>
+        <p align="center">
+          <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI?style=flat-square&labelColor=343b41"/></a>
+        </p>
+        <p align="center"><strong>🏆 20% Response Accuracy | 20% Latency Reduction</strong></p>
+        <p align="center"><em>LLM and RAG-based chat application with AlloyDB and Vertex AI integration</em></p>
+      </p>
+    </td>
+
   </tr>
   <tr>
     <td width="50%">
@@ -129,17 +130,17 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">LLM & RAG Chatbot Application</h3>
+      <h3 align="center">Birds-Eye-View Trajectory Prediction</h3>
       <p align="center">
-        <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI" width="100%" alt="LLM RAG Project"/>
+        <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving" width="100%" alt="BEV Project"/>
         </a>
         <p align="center">
-          <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI?style=flat-square&labelColor=343b41"/></a>
-          <a href="https://github.com/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/LLM-and-RAG-based-Chat-Application-with-AlloyDB-and-Vertex-AI?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
+          <a href="https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving?style=flat-square&labelColor=343b41"/></a>
         </p>
-        <p align="center"><strong>🏆 20% Response Accuracy | 20% Latency Reduction</strong></p>
-        <p align="center"><em>LLM and RAG-based chat application with AlloyDB and Vertex AI integration</em></p>
+        <p align="center"><strong>🏆 IoU: 0.920 | VPQ: +15% | ViT Integration</strong></p>
+        <p align="center"><em>Motion prediction for Autonomous Vehicles using PowerBEV framework and Multi-Camera setup</em></p>
       </p>
     </td>
   </tr>
