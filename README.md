@@ -98,8 +98,6 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
 
 If you’re evaluating my work, start with the Featured projects above. Each is being upgraded with product-grade README, CI, and reproducibility so you can run them end-to-end.
 
----
-
 ## Metrics
 
 <p>
@@ -110,3 +108,36 @@ If you’re evaluating my work, start with the Featured projects above. Each is 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesh-Jadhav" alt="GitHub streak" height="150"/>
 </p>
+
+## Tech stack visualization
+
+```mermaid
+graph TD
+  A[Simulation-First AI and Robotics] --> B[Computer Vision / 3D]
+  A --> C[AI/ML]
+  A --> D[Robotics & Sim]
+  A --> E[DevOps & Cloud]
+  B --> B1[OpenCV]
+  B --> B2[PyTorch]
+  B --> B3[Geometry/SLAM]
+  C --> C1[HuggingFace]
+  C --> C2[TensorFlow/Keras]
+  C --> C3[Evaluation/Tracking]
+  D --> D1[ROS/ROS2]
+  D --> D2[Gazebo/Isaac/Unreal]
+  D --> D3[MoveIt]
+  E --> E1[Docker]
+  E --> E2[GCP/AWS]
+  E --> E3[CI/CD]
+```
+
+## As seen in / collaborated with
+
+<p>
+  <img src="https://img.shields.io/badge/Duality%20AI-Collaboration-111827" />
+  <img src="https://img.shields.io/badge/ARIAC-Competition-0f766e" />
+  <img src="https://img.shields.io/badge/University%20of%20Maryland-Research-991b1b" />
+  <img src="https://img.shields.io/badge/Void%20Robotics-Engineering-1d4ed8" />
+</p>
+
+---
