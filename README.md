@@ -12,7 +12,7 @@
 [![Location](https://img.shields.io/badge/Location-Dallas%2C%20TX-0e76a8)](#)
 [![Website](https://img.shields.io/badge/Website-rishikesh--jadhav.github.io-2ea44f)](https://rishikesh-jadhav.github.io/)
 [![Email](https://img.shields.io/badge/Email-rishikeshjadhav712%40gmail.com-D14836)](mailto:rishikeshjadhav712@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh%20Jadhav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-avinash-jadhav-5667a91a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh%20Jadhav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-avinash-jadhav/)
 
 </div>
 
