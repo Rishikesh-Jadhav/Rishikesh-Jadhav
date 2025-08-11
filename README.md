@@ -36,37 +36,48 @@
   `https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation`
 
 ## Skills
-Python, C++, Bash, MATLAB, PyTorch, TensorFlow, HuggingFace, OpenCV, NumPy, Pandas, ROS, ROS2, Gazebo, MoveIt, Isaac Sim, FalconEditor, CUDA, Linux, Git, Docker, Google Cloud, Jenkins, SLAM, Sensor Fusion, Digital Twin Modeling and Simulation, Synthetic Dataset Generation
 
+**Programming Languages:**  
+Python, C++, Bash, MATLAB, SQL  
 <p>
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="36" height="36"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="36" height="36"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36"/></a>
+  <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/></a>
+</p>
 
-  <!-- AI / ML Frameworks -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="36" height="36"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="36" height="36"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="36" height="36"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="36" height="36"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="36" height="36"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/></a>
+**AI / ML Frameworks & Scientific Computing:**  
+PyTorch, TensorFlow, Keras, HuggingFace, OpenCV, NumPy, Pandas, Matplotlib, SciPy, Scikit-learn  
+<p>
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36"/></a>
+  <a href="https://keras.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="36" height="36"/></a>
+  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="36" height="36"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="36" height="36"/></a>
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36" height="36"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36" height="36"/></a>
+  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="36" height="36"/></a>
+  <a href="https://scipy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="36" height="36"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36"/></a>
+</p>
 
-  <!-- Robotics & Simulation -->
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="36" height="36"/></a>
-  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer"><img src="https://moveit.ros.org/assets/logo/moveit_logo-black.png" alt="moveit" width="36" height="36"/></a>
-  <a href="https://developer.nvidia.com/isaac-sim" target="_blank" rel="noreferrer"><img src="https://developer.nvidia.com/sites/default/files/akamai/isaac/isaac-sim.png" alt="isaac sim" width="36" height="36"/></a>
-  <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"><img src="https://gazebosim.org/assets/images/gazebo-logo.svg" alt="gazebo" width="36" height="36"/></a>
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" alt="cuda" width="36" height="36"/></a>
+**Robotics & Simulation:**  
+ROS, ROS2, Gazebo, MoveIt, Isaac Sim, Falcon(Duality AI), Unreal Engine  
+<p>
+  <a href="https://www.ros.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="36" height="36"/></a>
+  <a href="https://moveit.ros.org/"><img src="https://moveit.ros.org/assets/logo/moveit_logo-black.png" width="36" height="36"/></a>
+  <a href="https://www.unrealengine.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/UE_Logo_Black_Centered.svg" width="36" height="36"/></a>
+</p>
 
-  <!-- DevOps & Cloud -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="36" height="36"/></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/></a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a>
+**DevOps & Cloud:**  
+Linux, Git, Docker, Google Cloud, AWS, Jenkins  
+<p>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="36" height="36"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36"/></a>
 </p>
 
 ## How I work
@@ -78,7 +89,7 @@ Python, C++, Bash, MATLAB, PyTorch, TensorFlow, HuggingFace, OpenCV, NumPy, Pand
 ## Contact
 - Email: `rishikeshjadhav712@gmail.com`
 - Website: `https://rishikesh-jadhav.github.io/`
-- LinkedIn: `https://www.linkedin.com/in/rishikesh-avinash-jadhav-5667a91a9/`
+- LinkedIn: `https://www.linkedin.com/in/rishikesh-avinash-jadhav/`
 
 If you’re evaluating my work, start with the Featured projects above. Each is being upgraded with product-grade README, CI, and reproducibility so you can run them end-to-end.
 
