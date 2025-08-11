@@ -3,7 +3,7 @@
 <h1 align="center">Rishikesh Jadhav</h1>
 
 <p align="center">
-  Simulation Engineer (Computer Vision · 3D · Robotics) at Duality AI — I build simulation-first perception systems and ship reproducible, production-grade research.
+  Designing simulation-driven perception systems and delivering reproducible, production-ready research that bridges lab to real-world robotics.
 </p>
 
 <div align="center">
@@ -24,6 +24,7 @@
 - Cloud ML (GCP), containers, and tooling that makes experiments repeatable
 
 ## Currently
+- Expanding expertise in Large Language Models (LLMs) and Vision-Language Models (VLMs) for robotics — enabling natural language-driven perception, planning, and simulation workflows  
 - Preparing for Google Cloud's Professional ML Engineer certification by building ML projects on GCP
 
 ## Featured projects
@@ -33,25 +34,39 @@
   `https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023`
 - 3D Indoor Mapping and Object Segmentation — Navigation-oriented mapping and segmentation in complex environments  
   `https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation`
-- CMSC848F — 3D Vision coursework, project implementations, and reviews  
-  `https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision`
 
 ## Skills
-Python, C++, PyTorch, OpenCV, ROS, CUDA, Linux, Git, Docker, Google Cloud, MATLAB, Pandas
+Python, C++, Bash, MATLAB, PyTorch, TensorFlow, HuggingFace, OpenCV, NumPy, Pandas, ROS, ROS2, Gazebo, MoveIt, Isaac Sim, FalconEditor, CUDA, Linux, Git, Docker, Google Cloud, Jenkins, SLAM, Sensor Fusion, Digital Twin Modeling and Simulation, Synthetic Dataset Generation
 
 <p>
+  <!-- Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="36" height="36"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="36" height="36"/></a>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="36" height="36"/></a>
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" alt="cuda" width="36" height="36"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/></a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="36" height="36"/></a>
+
+  <!-- AI / ML Frameworks -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="36" height="36"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="36" height="36"/></a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="36" height="36"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="36" height="36"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="36" height="36"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/></a>
+
+  <!-- Robotics & Simulation -->
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="36" height="36"/></a>
+  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer"><img src="https://moveit.ros.org/assets/logo/moveit_logo-black.png" alt="moveit" width="36" height="36"/></a>
+  <a href="https://developer.nvidia.com/isaac-sim" target="_blank" rel="noreferrer"><img src="https://developer.nvidia.com/sites/default/files/akamai/isaac/isaac-sim.png" alt="isaac sim" width="36" height="36"/></a>
+  <a href="https://gazebosim.org/home" target="_blank" rel="noreferrer"><img src="https://gazebosim.org/assets/images/gazebo-logo.svg" alt="gazebo" width="36" height="36"/></a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cuda/cuda-original.svg" alt="cuda" width="36" height="36"/></a>
+
+  <!-- DevOps & Cloud -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="36" height="36"/></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="36" height="36"/></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="36" height="36"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a>
 </p>
 
 ## How I work
