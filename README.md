@@ -4,7 +4,7 @@
 
 <!-- Animated typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&height=30&lines=Bridging%20the%20gap%20between%20Simulation%20%26%20Reality;Vision%2C%20AI%20%26%20Automation%20%7C%20Research-to-Production;Simulation-First%20Mindset%20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&height=30&lines=Bridging%20the%20gap%20between%20Simulation%20%26%20Reality;AI%2C%20Robotics%20%26%20Automation%20%7C%20Research-to-Production;Synthetic%20Data%20Generation%20%7C%20Sim-to-Real%20Transfer%20" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Role](https://img.shields.io/badge/Role-Simulation%20Engineer-1abc9c)](#)
+[![Role](https://img.shields.io/badge/Role-AI%20Simulation%20Engineer-1abc9c)](#)
 [![Location](https://img.shields.io/badge/Location-Dallas%2C%20TX-0e76a8)](#)
 [![Website](https://img.shields.io/badge/Website-rishikesh--jadhav.github.io-2ea44f)](https://rishikesh-jadhav.github.io/)
 [![Email](https://img.shields.io/badge/Email-rishikeshjadhav712%40gmail.com-D14836)](mailto:rishikeshjadhav712@gmail.com)
