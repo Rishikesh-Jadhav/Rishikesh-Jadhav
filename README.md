@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Designing simulation-driven perception systems and delivering reproducible, production-ready research that bridges lab to real-world robotics.
+  Designing simulation-driven AI systems and delivering reproducible, production-ready research that bridges lab to real-world gap.
 </p>
 
 <div align="center">
