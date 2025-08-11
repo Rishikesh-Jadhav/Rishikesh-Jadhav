@@ -80,11 +80,16 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
   <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="36" height="36"/></a>
 </p>
 
-## How I work
-- Reproducible environments and seeds; clear setup and run instructions
-- CI for linting, type checks, and tests; coverage where meaningful
-- Architecture diagrams, results tables with baselines, and demo media
-- Licenses, changelogs, and small, shippable releases
+## How I Work
+- **Simulation-first mindset** - design, validate, and iterate in high-fidelity environments before hitting real hardware, saving time and cost  
+- **Research-to-production flow** - every project ships with reproducible environments, fixed seeds, and exact dataset/weights versions  
+- **Engineering discipline** - CI/CD pipelines with linting, type checks, unit/integration tests, and automated benchmarks  
+- **Storytelling through results** - architecture diagrams, quantitative comparisons, and demo videos to make work easy to understand and trust  
+- **Scalable experimentation** - containerized ML workflows on cloud (GCP) with distributed training and evaluation  
+- **Clean handoffs** - well-documented code, versioned changelogs, and minimal setup friction so others can run it end-to-end  
+- **Toolsmithing** - build or adapt tools (simulation assets, dataset converters, visualization utilities) to speed up team velocity  
+- **Bias for impact** - prioritize work that reduces friction for downstream teams and pushes projects closer to deployment  
+
 
 ## Contact
 - Email: `rishikeshjadhav712@gmail.com`
