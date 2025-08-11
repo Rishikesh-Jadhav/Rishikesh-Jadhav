@@ -159,7 +159,7 @@ Linux, Git, Docker, Google Cloud, AWS, Jenkins
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Reinforcement Learning based Autonomous Navigation</h3>
+      <h3 align="center">Reinforcement Learning Based Navigation</h3>
       <p align="center">
         <a href="https://github.com/Rishikesh-Jadhav/Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishikesh-Jadhav&repo=Reinforcement-Learning-for-Autonomous-Navigation-using-Deep-Q-Network-and-Twin-Delayed-DDPG" width="100%" alt="RL Navigation Project"/>
