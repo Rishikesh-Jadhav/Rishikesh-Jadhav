@@ -32,7 +32,7 @@
 - Cloud ML (GCP), containers, and tooling that makes experiments repeatable
 
 ## Currently
-- Expanding expertise in Large Language Models (LLMs) and Vision-Language Models (VLMs) for robotics — enabling natural language-driven perception, planning, and simulation workflows  
+- Expanding expertise in Large Language Models (LLMs) and Vision-Language Models (VLMs) for robotics - enabling natural language-driven perception, planning, and simulation workflows  
 - Preparing for Google Cloud's Professional ML Engineer certification by building ML projects on GCP
 
 ## Skills
