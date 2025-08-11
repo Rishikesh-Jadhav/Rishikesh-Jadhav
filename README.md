@@ -1,29 +1,38 @@
-![MasterHead](https://github.com/Rishikesh-Jadhav/Rishikesh-Jadhav/blob/main/G6_ARIAC.jpeg)
-<h1 align="center">Hello 👋, I am Rishikesh Jadhav</h1>
-<h3 align="center">Simulation Engineer at Duality AI</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Banner](https://github.com/Rishikesh-Jadhav/Rishikesh-Jadhav/blob/main/G6_ARIAC.jpeg)
 
-- 🔭 **Currently Working On:**
-  Preparing for Google Clouds Professional Machine Learning Engineer Certification by building ML projects on Google cloud.
+# Rishikesh Jadhav
+Simulation Engineer (Computer Vision, 3D, Robotics) at Duality AI — I build simulation-first perception systems and productize research with reproducible, production-grade tooling.
 
-- 🌱 I’m currently learning **Advanced Techniques in Visual Learning & Recognition, 3D vision and applications of visual transformers **
+## Focus
+- Visual learning and recognition, multi-view/3D vision, and robotics simulation
+- Research-to-production: reproducibility, CI, datasets at scale, and reliable evaluation
+- Cloud ML (GCP), containers, and tooling that makes experiments repeatable
 
-- 💬 Ask me about ** Computer vision, Visual Learning/Recognition and Robotics**
+## Currently
+- Preparing for Google Cloud's Professional ML Engineer certification by building ML projects on GCP
 
-- 📫 How to reach me **rishikeshjadhav712@gmail.com**
-  
+## Featured projects
+- Birds-Eye-View Trajectory Prediction for Autonomous Driving — Multi-camera BEV forecasting using PowerBEV, with reproducible training/eval and results tables  
+  `https://github.com/Rishikesh-Jadhav/Birds-Eye-View-Trajectory-Prediction-for-Autonomous-Driving`
+- ARIAC 2023: Agile Robotics for Industrial Automation — ROS-based competition stack with simulation and task orchestration  
+  `https://github.com/Rishikesh-Jadhav/ARIAC-AgileRoboticsforIndustrialAutomationCompetition2023`
+- 3D Indoor Mapping and Object Segmentation — Navigation-oriented mapping and segmentation in complex environments  
+  `https://github.com/Rishikesh-Jadhav/3D-Indoor-Mapping-and-Object-Segmentation`
+- CMSC848F — 3D Vision coursework, project implementations, and reviews  
+  `https://github.com/Rishikesh-Jadhav/CMSC848F-3D-Vision`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishikesh-avinash-jadhav-5667a91a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikesh-avinash-jadhav-5667a91a9/" height="30" width="40" /></a>
-<a href="https://instagram.com/rishikesh_jadhav7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishikesh_jadhav7" height="30" width="40" /></a>
-</p>
+## Skills
+Python, C++, PyTorch, OpenCV, ROS, CUDA, Linux, Git, Docker, Google Cloud, MATLAB, Pandas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## How I work
+- Reproducible environments and seeds; clear setup and run instructions
+- CI for linting, type checks, and tests; coverage where meaningful
+- Architecture diagrams, results tables with baselines, and demo media
+- Licenses, changelogs, and small, shippable releases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-jadhav&show_icons=true&locale=en&layout=compact" alt="rishikesh-jadhav" /></p>
+## Contact
+- Email: `rishikeshjadhav712@gmail.com`
+- Website: `https://rishikesh-jadhav.github.io/`
+- LinkedIn: `https://www.linkedin.com/in/rishikesh-avinash-jadhav-5667a91a9/`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikesh-jadhav&show_icons=true&locale=en" alt="rishikesh-jadhav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-jadhav&" alt="rishikesh-jadhav" /></p>
+If you’re evaluating my work, start with the Featured projects above. Each is being upgraded with product-grade README, CI, and reproducibility so you can run them end-to-end.
